@@ -1,0 +1,14 @@
+C:\Users\Avell\source\repos\AngularCrud\Test\bin\Debug\netcoreapp2.2\AngularCrud.Application.deps.json
+C:\Users\Avell\source\repos\AngularCrud\Test\bin\Debug\netcoreapp2.2\AngularCrud.Application.dll
+C:\Users\Avell\source\repos\AngularCrud\Test\bin\Debug\netcoreapp2.2\AngularCrud.Application.pdb
+C:\Users\Avell\source\repos\AngularCrud\Test\bin\Debug\netcoreapp2.2\AngularCrud.Core.dll
+C:\Users\Avell\source\repos\AngularCrud\Test\bin\Debug\netcoreapp2.2\AngularCrud.Data.dll
+C:\Users\Avell\source\repos\AngularCrud\Test\bin\Debug\netcoreapp2.2\AngularCrud.Data.pdb
+C:\Users\Avell\source\repos\AngularCrud\Test\bin\Debug\netcoreapp2.2\AngularCrud.Core.pdb
+C:\Users\Avell\source\repos\AngularCrud\Test\obj\Debug\netcoreapp2.2\AngularCrud.Application.csprojAssemblyReference.cache
+C:\Users\Avell\source\repos\AngularCrud\Test\obj\Debug\netcoreapp2.2\AngularCrud.Application.csproj.CoreCompileInputs.cache
+C:\Users\Avell\source\repos\AngularCrud\Test\obj\Debug\netcoreapp2.2\AngularCrud.Application.AssemblyInfoInputs.cache
+C:\Users\Avell\source\repos\AngularCrud\Test\obj\Debug\netcoreapp2.2\AngularCrud.Application.AssemblyInfo.cs
+C:\Users\Avell\source\repos\AngularCrud\Test\obj\Debug\netcoreapp2.2\AngularCrud.Application.csproj.CopyComplete
+C:\Users\Avell\source\repos\AngularCrud\Test\obj\Debug\netcoreapp2.2\AngularCrud.Application.dll
+C:\Users\Avell\source\repos\AngularCrud\Test\obj\Debug\netcoreapp2.2\AngularCrud.Application.pdb

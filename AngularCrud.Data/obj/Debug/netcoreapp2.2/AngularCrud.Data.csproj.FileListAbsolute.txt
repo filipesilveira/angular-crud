@@ -1,0 +1,12 @@
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\bin\Debug\netcoreapp2.2\AngularCrud.Data.deps.json
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\bin\Debug\netcoreapp2.2\AngularCrud.Data.dll
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\bin\Debug\netcoreapp2.2\AngularCrud.Data.pdb
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\bin\Debug\netcoreapp2.2\AngularCrud.Core.dll
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\bin\Debug\netcoreapp2.2\AngularCrud.Core.pdb
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\obj\Debug\netcoreapp2.2\AngularCrud.Data.csprojAssemblyReference.cache
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\obj\Debug\netcoreapp2.2\AngularCrud.Data.csproj.CoreCompileInputs.cache
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\obj\Debug\netcoreapp2.2\AngularCrud.Data.AssemblyInfoInputs.cache
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\obj\Debug\netcoreapp2.2\AngularCrud.Data.AssemblyInfo.cs
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\obj\Debug\netcoreapp2.2\AngularCrud.Data.csproj.CopyComplete
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\obj\Debug\netcoreapp2.2\AngularCrud.Data.dll
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Data\obj\Debug\netcoreapp2.2\AngularCrud.Data.pdb

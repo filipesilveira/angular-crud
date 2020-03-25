@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <br /><br />
+      <h3>Clients</h3>
+      <hr />
+    </div>
+  </div>
+  <div class="row" *ngIf="featureActive === 'list'">
+    <div class="col-md-12">
+      <button type="button"
+              class="btn btn-primary"
+              (click)="addClient()">
+        New
+      </button>
+      <br /><br />
+    </div>
+  </div>
+  <div class="row" *ngIf="featureActive === 'list'">
+    <div class="col-md-12">
+      <app-client-list (onClientSelected)="selectClient($event)">
+      </app-client-list>
+    </div>
+  </div>
+  <div class="row" *ngIf="featureActive === 'edit'">
+    <div class="col-md-12">
+      <app-client-edit (onClientSave)="clientSaved()"
+                       [client]="clientSelected">
+      </app-client-edit>
+    </div>
+  </div>
+</div>

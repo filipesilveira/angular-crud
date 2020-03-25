@@ -1,0 +1,8 @@
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Test\bin\Debug\netcoreapp2.2\AngularCrud.Core.deps.json
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Test\bin\Debug\netcoreapp2.2\AngularCrud.Core.dll
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Test\bin\Debug\netcoreapp2.2\AngularCrud.Core.pdb
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Test\obj\Debug\netcoreapp2.2\AngularCrud.Core.csproj.CoreCompileInputs.cache
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Test\obj\Debug\netcoreapp2.2\AngularCrud.Core.AssemblyInfoInputs.cache
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Test\obj\Debug\netcoreapp2.2\AngularCrud.Core.AssemblyInfo.cs
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Test\obj\Debug\netcoreapp2.2\AngularCrud.Core.dll
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Test\obj\Debug\netcoreapp2.2\AngularCrud.Core.pdb

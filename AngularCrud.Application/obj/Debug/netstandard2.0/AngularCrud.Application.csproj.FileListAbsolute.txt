@@ -1,0 +1,9 @@
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\bin\Debug\netstandard2.0\AngularCrud.Application.deps.json
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\bin\Debug\netstandard2.0\AngularCrud.Application.dll
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\bin\Debug\netstandard2.0\AngularCrud.Application.pdb
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\obj\Debug\netstandard2.0\AngularCrud.Application.csproj.CoreCompileInputs.cache
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\obj\Debug\netstandard2.0\AngularCrud.Application.AssemblyInfoInputs.cache
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\obj\Debug\netstandard2.0\AngularCrud.Application.AssemblyInfo.cs
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\obj\Debug\netstandard2.0\AngularCrud.Application.dll
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\obj\Debug\netstandard2.0\AngularCrud.Application.pdb
+C:\Users\Avell\source\repos\AngularCrud\AngularCrud.Application\obj\Debug\netstandard2.0\AngularCrud.Application.csprojAssemblyReference.cache
